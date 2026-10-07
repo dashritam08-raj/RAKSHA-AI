@@ -1,0 +1,4 @@
+source_region,source_district,source_location,location_id,latitude,longitude,review_status
+Nepal,,Kathmandu,kathmandu_demo,27.7172,85.3240,REVIEWED_TEMPLATE
+Assam,,,assam_demo,26.2006,92.9376,PLACEHOLDER_REVIEW_REQUIRED
+West Bengal,,,kolkata_demo,22.5726,88.3639,REVIEWED_TEMPLATE

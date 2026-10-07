@@ -1,0 +1,14 @@
+{
+  "bands": [
+    {"name":"CRITICAL","min_score":80},
+    {"name":"HIGH","min_score":55},
+    {"name":"MODERATE","min_score":30},
+    {"name":"LOW","min_score":0}
+  ],
+  "weights": {
+    "deaths":40,"missing":20,"injured":10,"directly_affected":10,"evacuated":8,"relocated":4,"houses_destroyed":5,"houses_damaged":2,"road_damage_m":1
+  },
+  "caps": {
+    "deaths":25,"missing":20,"injured":100,"directly_affected":10000,"evacuated":5000,"relocated":5000,"houses_destroyed":2000,"houses_damaged":5000,"road_damage_m":10000
+  }
+}

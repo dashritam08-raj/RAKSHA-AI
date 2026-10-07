@@ -1,0 +1,78 @@
+location_id,district_en,province_en,latitude,longitude,coordinate_source,coordinate_source_url,license
+NP0101,Taplejung,Koshi,27.61,87.822,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0102,Panchthar,Koshi,27.149,87.855,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0103,Ilam,Koshi,26.885,87.92,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0104,Jhapa,Koshi,26.584,87.886,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0105,Morang,Koshi,26.611,87.473,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0106,Sunsari,Koshi,26.641,87.141,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0107,Dhankuta,Koshi,27.018,87.313,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0108,Terhathum,Koshi,27.132,87.524,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0109,Sankhuwasabha,Koshi,27.548,87.227,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0110,Bhojpur,Koshi,27.175,87.094,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0111,Solukhumbu,Koshi,27.726,86.782,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0112,Khotang,Koshi,27.156,86.681,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0113,Okhaldhunga,Koshi,27.336,86.448,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0114,Udayapur,Koshi,26.933,86.52,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0215,Saptari,Madhesh,26.607,86.749,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0216,Siraha,Madhesh,26.742,86.35,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0217,Dhanusa,Madhesh,26.851,86.036,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0218,Mahottari,Madhesh,26.885,85.797,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0219,Sarlahi,Madhesh,26.968,85.564,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0232,Rautahat,Madhesh,26.989,85.283,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0233,Bara,Madhesh,27.107,85.069,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0234,Parsa,Madhesh,27.223,84.827,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0320,Sindhuli,Bagmati,27.185,86.07,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0321,Ramechhap,Bagmati,27.537,86.257,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0322,Dolakha,Bagmati,27.824,86.222,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0323,Sindhupalchok,Bagmati,27.907,85.756,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0324,Kavrepalanchok,Bagmati,27.545,85.624,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0325,Lalitpur,Bagmati,27.548,85.323,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0326,Bhaktapur,Bagmati,27.674,85.426,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0327,Kathmandu,Bagmati,27.694,85.285,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0328,Nuwakot,Bagmati,27.926,85.248,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0329,Rasuwa,Bagmati,28.176,85.479,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0330,Dhading,Bagmati,28.008,84.906,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0331,Makwanpur,Bagmati,27.437,85.053,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0335,Chitawan,Bagmati,27.618,84.453,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0436,Gorkha,Gandaki,28.274,84.841,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0437,Lamjung,Gandaki,28.283,84.42,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0438,Manang,Gandaki,28.673,84.169,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0439,Kaski,Gandaki,28.345,83.971,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0440,Tanahu,Gandaki,27.935,84.223,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0441,Syangja,Gandaki,28.045,83.827,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0442,Parbat,Gandaki,28.203,83.728,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0443,Baglung,Gandaki,28.356,83.143,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0444,Myagdi,Gandaki,28.546,83.463,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0445,Mustang,Gandaki,28.948,83.901,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0447,Nawalparasi East,Gandaki,27.654,84.031,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0546,Palpa,Lumbini,27.81,83.63,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0547,Nawalparasi West,Lumbini,27.52,83.737,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0548,Rupandehi,Lumbini,27.549,83.403,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0549,Kapilbastu,Lumbini,27.619,82.982,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0550,Arghakhanchi,Lumbini,27.932,83.146,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0551,Gulmi,Lumbini,28.096,83.329,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0552,Rukum East,Lumbini,28.672,82.859,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0554,Rolpa,Lumbini,28.325,82.644,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0555,Pyuthan,Lumbini,28.12,82.83,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0556,Dang,Lumbini,27.98,82.469,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0557,Banke,Lumbini,28.096,81.773,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0558,Bardiya,Lumbini,28.372,81.45,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0652,Rukum West,Karnali,28.756,82.428,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0653,Salyan,Karnali,28.407,82.168,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0659,Surkhet,Karnali,28.658,81.514,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0660,Jajarkot,Karnali,28.869,82.168,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0661,Dailekh,Karnali,28.885,81.7,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0662,Dolpa,Karnali,29.214,83.037,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0663,Jumla,Karnali,29.239,82.199,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0664,Kalikot,Karnali,29.216,81.689,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0665,Mugu,Karnali,29.678,82.531,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0666,Humla,Karnali,30.026,81.833,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0767,Bajhang,Sudur Paschim,29.723,81.246,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0768,Bajura,Sudur Paschim,29.611,81.577,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0769,Achham,Sudur Paschim,29.068,81.294,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0770,Doti,Sudur Paschim,29.188,80.862,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0771,Kailali,Sudur Paschim,28.731,80.904,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0772,Kanchanpur,Sudur Paschim,28.845,80.283,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0773,Dadeldhura,Sudur Paschim,29.209,80.501,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0774,Baitadi,Sudur Paschim,29.508,80.558,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+NP0775,Darchula,Sudur Paschim,29.926,80.789,open-admin-data Nepal administrative divisions,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0

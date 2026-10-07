@@ -1,0 +1,16 @@
+services:
+  - type: web
+    name: raksha-ai-backend
+    runtime: docker
+    dockerfilePath: ./Dockerfile
+    dockerContext: ./
+    healthCheckPath: /api/health
+    envVars:
+      - key: RAKSHA_ENV
+        value: production
+      - key: RAKSHA_SECRET_KEY
+        generateValue: true
+      - key: RAKSHA_CORS_ORIGINS
+        sync: false
+      - key: DATABASE_URL
+        sync: false

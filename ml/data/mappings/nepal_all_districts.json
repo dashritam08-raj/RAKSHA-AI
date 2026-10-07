@@ -1,0 +1,3775 @@
+[
+  {
+    "id": "NP0101",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "ताप्लेजुङ",
+      "en": "Taplejung",
+      "slug": "taplejung-np0101"
+    },
+    "code": {
+      "id": "NP0101",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP01",
+      "level": 1,
+      "name": {
+        "local": "कोशी",
+        "en": "Koshi",
+        "slug": "koshi-np01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 9
+    },
+    "zip_codes": [
+      "57500"
+    ],
+    "geo": {
+      "lat": "27.61",
+      "lon": "87.822"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0102",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "पाँचथर",
+      "en": "Panchthar",
+      "slug": "panchthar-np0102"
+    },
+    "code": {
+      "id": "NP0102",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP01",
+      "level": 1,
+      "name": {
+        "local": "कोशी",
+        "en": "Koshi",
+        "slug": "koshi-np01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 8
+    },
+    "zip_codes": [
+      "57400"
+    ],
+    "geo": {
+      "lat": "27.149",
+      "lon": "87.855"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0103",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "इलाम",
+      "en": "Ilam",
+      "slug": "ilam-np0103"
+    },
+    "code": {
+      "id": "NP0103",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP01",
+      "level": 1,
+      "name": {
+        "local": "कोशी",
+        "en": "Koshi",
+        "slug": "koshi-np01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 10
+    },
+    "zip_codes": [
+      "57300"
+    ],
+    "geo": {
+      "lat": "26.885",
+      "lon": "87.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0104",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "झापा",
+      "en": "Jhapa",
+      "slug": "jhapa-np0104"
+    },
+    "code": {
+      "id": "NP0104",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP01",
+      "level": 1,
+      "name": {
+        "local": "कोशी",
+        "en": "Koshi",
+        "slug": "koshi-np01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 15
+    },
+    "zip_codes": [
+      "57200"
+    ],
+    "geo": {
+      "lat": "26.584",
+      "lon": "87.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0105",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "मोरङ",
+      "en": "Morang",
+      "slug": "morang-np0105"
+    },
+    "code": {
+      "id": "NP0105",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP01",
+      "level": 1,
+      "name": {
+        "local": "कोशी",
+        "en": "Koshi",
+        "slug": "koshi-np01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 17
+    },
+    "zip_codes": [
+      "56600"
+    ],
+    "geo": {
+      "lat": "26.611",
+      "lon": "87.473"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0106",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "सुनसरी",
+      "en": "Sunsari",
+      "slug": "sunsari-np0106"
+    },
+    "code": {
+      "id": "NP0106",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP01",
+      "level": 1,
+      "name": {
+        "local": "कोशी",
+        "en": "Koshi",
+        "slug": "koshi-np01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 13
+    },
+    "zip_codes": [
+      "56700"
+    ],
+    "geo": {
+      "lat": "26.641",
+      "lon": "87.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0107",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "धनकुटा",
+      "en": "Dhankuta",
+      "slug": "dhankuta-np0107"
+    },
+    "code": {
+      "id": "NP0107",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP01",
+      "level": 1,
+      "name": {
+        "local": "कोशी",
+        "en": "Koshi",
+        "slug": "koshi-np01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 7
+    },
+    "zip_codes": [
+      "56800"
+    ],
+    "geo": {
+      "lat": "27.018",
+      "lon": "87.313"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0108",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "तेह्रथुम",
+      "en": "Terhathum",
+      "slug": "terhathum-np0108"
+    },
+    "code": {
+      "id": "NP0108",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP01",
+      "level": 1,
+      "name": {
+        "local": "कोशी",
+        "en": "Koshi",
+        "slug": "koshi-np01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 6
+    },
+    "zip_codes": [
+      "57100"
+    ],
+    "geo": {
+      "lat": "27.132",
+      "lon": "87.524"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0109",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "सङ्खुवासभा",
+      "en": "Sankhuwasabha",
+      "slug": "sankhuwasabha-np0109"
+    },
+    "code": {
+      "id": "NP0109",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP01",
+      "level": 1,
+      "name": {
+        "local": "कोशी",
+        "en": "Koshi",
+        "slug": "koshi-np01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 10
+    },
+    "zip_codes": [
+      "56900"
+    ],
+    "geo": {
+      "lat": "27.548",
+      "lon": "87.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0110",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "भोजपुर",
+      "en": "Bhojpur",
+      "slug": "bhojpur-np0110"
+    },
+    "code": {
+      "id": "NP0110",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP01",
+      "level": 1,
+      "name": {
+        "local": "कोशी",
+        "en": "Koshi",
+        "slug": "koshi-np01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 9
+    },
+    "zip_codes": [
+      "57000"
+    ],
+    "geo": {
+      "lat": "27.175",
+      "lon": "87.094"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0111",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "सोलुखुम्बु",
+      "en": "Solukhumbu",
+      "slug": "solukhumbu-np0111"
+    },
+    "code": {
+      "id": "NP0111",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP01",
+      "level": 1,
+      "name": {
+        "local": "कोशी",
+        "en": "Koshi",
+        "slug": "koshi-np01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 8
+    },
+    "zip_codes": [
+      "56000"
+    ],
+    "geo": {
+      "lat": "27.726",
+      "lon": "86.782"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0112",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "खोटाङ",
+      "en": "Khotang",
+      "slug": "khotang-np0112"
+    },
+    "code": {
+      "id": "NP0112",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP01",
+      "level": 1,
+      "name": {
+        "local": "कोशी",
+        "en": "Koshi",
+        "slug": "koshi-np01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 10
+    },
+    "zip_codes": [
+      "56200"
+    ],
+    "geo": {
+      "lat": "27.156",
+      "lon": "86.681"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0113",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "ओखलढुङ्गा",
+      "en": "Okhaldhunga",
+      "slug": "okhaldhunga-np0113"
+    },
+    "code": {
+      "id": "NP0113",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP01",
+      "level": 1,
+      "name": {
+        "local": "कोशी",
+        "en": "Koshi",
+        "slug": "koshi-np01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 8
+    },
+    "zip_codes": [
+      "56100"
+    ],
+    "geo": {
+      "lat": "27.336",
+      "lon": "86.448"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0114",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "उदयपुर",
+      "en": "Udayapur",
+      "slug": "udayapur-np0114"
+    },
+    "code": {
+      "id": "NP0114",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP01",
+      "level": 1,
+      "name": {
+        "local": "कोशी",
+        "en": "Koshi",
+        "slug": "koshi-np01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP01",
+        "level": 1,
+        "name": {
+          "local": "कोशी",
+          "en": "Koshi",
+          "slug": "koshi-np01"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 9
+    },
+    "zip_codes": [
+      "56300"
+    ],
+    "geo": {
+      "lat": "26.933",
+      "lon": "86.52"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0215",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "सप्तरी",
+      "en": "Saptari",
+      "slug": "saptari-np0215"
+    },
+    "code": {
+      "id": "NP0215",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP02",
+      "level": 1,
+      "name": {
+        "local": "मधेश",
+        "en": "Madhesh",
+        "slug": "madhesh-np02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 19
+    },
+    "zip_codes": [
+      "56400"
+    ],
+    "geo": {
+      "lat": "26.607",
+      "lon": "86.749"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0216",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "सिराहा",
+      "en": "Siraha",
+      "slug": "siraha-np0216"
+    },
+    "code": {
+      "id": "NP0216",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP02",
+      "level": 1,
+      "name": {
+        "local": "मधेश",
+        "en": "Madhesh",
+        "slug": "madhesh-np02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 17
+    },
+    "zip_codes": [
+      "56500"
+    ],
+    "geo": {
+      "lat": "26.742",
+      "lon": "86.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0217",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "धनुषा",
+      "en": "Dhanusa",
+      "slug": "dhanusa-np0217"
+    },
+    "code": {
+      "id": "NP0217",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP02",
+      "level": 1,
+      "name": {
+        "local": "मधेश",
+        "en": "Madhesh",
+        "slug": "madhesh-np02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 18
+    },
+    "zip_codes": [
+      "45600"
+    ],
+    "geo": {
+      "lat": "26.851",
+      "lon": "86.036"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0218",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "महोत्तरी",
+      "en": "Mahottari",
+      "slug": "mahottari-np0218"
+    },
+    "code": {
+      "id": "NP0218",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP02",
+      "level": 1,
+      "name": {
+        "local": "मधेश",
+        "en": "Madhesh",
+        "slug": "madhesh-np02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 15
+    },
+    "zip_codes": [
+      "45700"
+    ],
+    "geo": {
+      "lat": "26.885",
+      "lon": "85.797"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0219",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "सर्लाही",
+      "en": "Sarlahi",
+      "slug": "sarlahi-np0219"
+    },
+    "code": {
+      "id": "NP0219",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP02",
+      "level": 1,
+      "name": {
+        "local": "मधेश",
+        "en": "Madhesh",
+        "slug": "madhesh-np02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 20
+    },
+    "zip_codes": [
+      "45800"
+    ],
+    "geo": {
+      "lat": "26.968",
+      "lon": "85.564"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0232",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "रौतहट",
+      "en": "Rautahat",
+      "slug": "rautahat-np0232"
+    },
+    "code": {
+      "id": "NP0232",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP02",
+      "level": 1,
+      "name": {
+        "local": "मधेश",
+        "en": "Madhesh",
+        "slug": "madhesh-np02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 18
+    },
+    "zip_codes": [
+      "44500"
+    ],
+    "geo": {
+      "lat": "26.989",
+      "lon": "85.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0233",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "बारा",
+      "en": "Bara",
+      "slug": "bara-np0233"
+    },
+    "code": {
+      "id": "NP0233",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP02",
+      "level": 1,
+      "name": {
+        "local": "मधेश",
+        "en": "Madhesh",
+        "slug": "madhesh-np02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 17
+    },
+    "zip_codes": [
+      "44400"
+    ],
+    "geo": {
+      "lat": "27.107",
+      "lon": "85.069"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0234",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "पर्सा",
+      "en": "Parsa",
+      "slug": "parsa-np0234"
+    },
+    "code": {
+      "id": "NP0234",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP02",
+      "level": 1,
+      "name": {
+        "local": "मधेश",
+        "en": "Madhesh",
+        "slug": "madhesh-np02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP02",
+        "level": 1,
+        "name": {
+          "local": "मधेश",
+          "en": "Madhesh",
+          "slug": "madhesh-np02"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 16
+    },
+    "zip_codes": [
+      "44300"
+    ],
+    "geo": {
+      "lat": "27.223",
+      "lon": "84.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0320",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "सिन्धुली",
+      "en": "Sindhuli",
+      "slug": "sindhuli-np0320"
+    },
+    "code": {
+      "id": "NP0320",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP03",
+      "level": 1,
+      "name": {
+        "local": "बागमती",
+        "en": "Bagmati",
+        "slug": "bagmati-np03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 9
+    },
+    "zip_codes": [
+      "45900"
+    ],
+    "geo": {
+      "lat": "27.185",
+      "lon": "86.07"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0321",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "रामेछाप",
+      "en": "Ramechhap",
+      "slug": "ramechhap-np0321"
+    },
+    "code": {
+      "id": "NP0321",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP03",
+      "level": 1,
+      "name": {
+        "local": "बागमती",
+        "en": "Bagmati",
+        "slug": "bagmati-np03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 8
+    },
+    "zip_codes": [
+      "45400"
+    ],
+    "geo": {
+      "lat": "27.537",
+      "lon": "86.257"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0322",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "दोलखा",
+      "en": "Dolakha",
+      "slug": "dolakha-np0322"
+    },
+    "code": {
+      "id": "NP0322",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP03",
+      "level": 1,
+      "name": {
+        "local": "बागमती",
+        "en": "Bagmati",
+        "slug": "bagmati-np03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 9
+    },
+    "zip_codes": [
+      "45500"
+    ],
+    "geo": {
+      "lat": "27.824",
+      "lon": "86.222"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0323",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "सिन्धुपाल्चोक",
+      "en": "Sindhupalchok",
+      "slug": "sindhupalchok-np0323"
+    },
+    "code": {
+      "id": "NP0323",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP03",
+      "level": 1,
+      "name": {
+        "local": "बागमती",
+        "en": "Bagmati",
+        "slug": "bagmati-np03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 12
+    },
+    "zip_codes": [
+      "45300"
+    ],
+    "geo": {
+      "lat": "27.907",
+      "lon": "85.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0324",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "काभ्रेपलाञ्चोक",
+      "en": "Kavrepalanchok",
+      "slug": "kavrepalanchok-np0324"
+    },
+    "code": {
+      "id": "NP0324",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP03",
+      "level": 1,
+      "name": {
+        "local": "बागमती",
+        "en": "Bagmati",
+        "slug": "bagmati-np03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 13
+    },
+    "zip_codes": [
+      "45200"
+    ],
+    "geo": {
+      "lat": "27.545",
+      "lon": "85.624"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0325",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "ललितपुर",
+      "en": "Lalitpur",
+      "slug": "lalitpur-np0325"
+    },
+    "code": {
+      "id": "NP0325",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP03",
+      "level": 1,
+      "name": {
+        "local": "बागमती",
+        "en": "Bagmati",
+        "slug": "bagmati-np03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 6
+    },
+    "zip_codes": [
+      "44700"
+    ],
+    "geo": {
+      "lat": "27.548",
+      "lon": "85.323"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0326",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "भक्तपुर",
+      "en": "Bhaktapur",
+      "slug": "bhaktapur-np0326"
+    },
+    "code": {
+      "id": "NP0326",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP03",
+      "level": 1,
+      "name": {
+        "local": "बागमती",
+        "en": "Bagmati",
+        "slug": "bagmati-np03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 4
+    },
+    "zip_codes": [
+      "44800"
+    ],
+    "geo": {
+      "lat": "27.674",
+      "lon": "85.426"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0327",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "काठमाडौँ",
+      "en": "Kathmandu",
+      "slug": "kathmandu-np0327"
+    },
+    "code": {
+      "id": "NP0327",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP03",
+      "level": 1,
+      "name": {
+        "local": "बागमती",
+        "en": "Bagmati",
+        "slug": "bagmati-np03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 11
+    },
+    "zip_codes": [
+      "44600"
+    ],
+    "geo": {
+      "lat": "27.694",
+      "lon": "85.285"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0328",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "नुवाकोट",
+      "en": "Nuwakot",
+      "slug": "nuwakot-np0328"
+    },
+    "code": {
+      "id": "NP0328",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP03",
+      "level": 1,
+      "name": {
+        "local": "बागमती",
+        "en": "Bagmati",
+        "slug": "bagmati-np03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 14
+    },
+    "zip_codes": [
+      "44900"
+    ],
+    "geo": {
+      "lat": "27.926",
+      "lon": "85.248"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0329",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "रसुवा",
+      "en": "Rasuwa",
+      "slug": "rasuwa-np0329"
+    },
+    "code": {
+      "id": "NP0329",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP03",
+      "level": 1,
+      "name": {
+        "local": "बागमती",
+        "en": "Bagmati",
+        "slug": "bagmati-np03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 5
+    },
+    "zip_codes": [
+      "45000"
+    ],
+    "geo": {
+      "lat": "28.176",
+      "lon": "85.479"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0330",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "धादिङ",
+      "en": "Dhading",
+      "slug": "dhading-np0330"
+    },
+    "code": {
+      "id": "NP0330",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP03",
+      "level": 1,
+      "name": {
+        "local": "बागमती",
+        "en": "Bagmati",
+        "slug": "bagmati-np03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 13
+    },
+    "zip_codes": [
+      "45100"
+    ],
+    "geo": {
+      "lat": "28.008",
+      "lon": "84.906"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0331",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "मकवानपुर",
+      "en": "Makwanpur",
+      "slug": "makwanpur-np0331"
+    },
+    "code": {
+      "id": "NP0331",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP03",
+      "level": 1,
+      "name": {
+        "local": "बागमती",
+        "en": "Bagmati",
+        "slug": "bagmati-np03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 12
+    },
+    "zip_codes": [
+      "44100"
+    ],
+    "geo": {
+      "lat": "27.437",
+      "lon": "85.053"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0335",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "चितवन",
+      "en": "Chitawan",
+      "slug": "chitawan-np0335"
+    },
+    "code": {
+      "id": "NP0335",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP03",
+      "level": 1,
+      "name": {
+        "local": "बागमती",
+        "en": "Bagmati",
+        "slug": "bagmati-np03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP03",
+        "level": 1,
+        "name": {
+          "local": "बागमती",
+          "en": "Bagmati",
+          "slug": "bagmati-np03"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 8
+    },
+    "zip_codes": [
+      "44200"
+    ],
+    "geo": {
+      "lat": "27.618",
+      "lon": "84.453"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0436",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "गोर्खा",
+      "en": "Gorkha",
+      "slug": "gorkha-np0436"
+    },
+    "code": {
+      "id": "NP0436",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP04",
+      "level": 1,
+      "name": {
+        "local": "गण्डकी",
+        "en": "Gandaki",
+        "slug": "gandaki-np04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 11
+    },
+    "zip_codes": [
+      "34000"
+    ],
+    "geo": {
+      "lat": "28.274",
+      "lon": "84.841"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0437",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "लम्जुङ",
+      "en": "Lamjung",
+      "slug": "lamjung-np0437"
+    },
+    "code": {
+      "id": "NP0437",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP04",
+      "level": 1,
+      "name": {
+        "local": "गण्डकी",
+        "en": "Gandaki",
+        "slug": "gandaki-np04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 8
+    },
+    "zip_codes": [
+      "33600"
+    ],
+    "geo": {
+      "lat": "28.283",
+      "lon": "84.42"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0438",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "मनाङ",
+      "en": "Manang",
+      "slug": "manang-np0438"
+    },
+    "code": {
+      "id": "NP0438",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP04",
+      "level": 1,
+      "name": {
+        "local": "गण्डकी",
+        "en": "Gandaki",
+        "slug": "gandaki-np04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 4
+    },
+    "zip_codes": [
+      "33500"
+    ],
+    "geo": {
+      "lat": "28.673",
+      "lon": "84.169"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0439",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "कास्की",
+      "en": "Kaski",
+      "slug": "kaski-np0439"
+    },
+    "code": {
+      "id": "NP0439",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP04",
+      "level": 1,
+      "name": {
+        "local": "गण्डकी",
+        "en": "Gandaki",
+        "slug": "gandaki-np04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 5
+    },
+    "zip_codes": [
+      "33700"
+    ],
+    "geo": {
+      "lat": "28.345",
+      "lon": "83.971"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0440",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "तनहुँ",
+      "en": "Tanahu",
+      "slug": "tanahu-np0440"
+    },
+    "code": {
+      "id": "NP0440",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP04",
+      "level": 1,
+      "name": {
+        "local": "गण्डकी",
+        "en": "Gandaki",
+        "slug": "gandaki-np04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 10
+    },
+    "zip_codes": [
+      "33900"
+    ],
+    "geo": {
+      "lat": "27.935",
+      "lon": "84.223"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0441",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "स्याङ्जा",
+      "en": "Syangja",
+      "slug": "syangja-np0441"
+    },
+    "code": {
+      "id": "NP0441",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP04",
+      "level": 1,
+      "name": {
+        "local": "गण्डकी",
+        "en": "Gandaki",
+        "slug": "gandaki-np04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 11
+    },
+    "zip_codes": [
+      "33800"
+    ],
+    "geo": {
+      "lat": "28.045",
+      "lon": "83.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0442",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "पर्वत",
+      "en": "Parbat",
+      "slug": "parbat-np0442"
+    },
+    "code": {
+      "id": "NP0442",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP04",
+      "level": 1,
+      "name": {
+        "local": "गण्डकी",
+        "en": "Gandaki",
+        "slug": "gandaki-np04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 7
+    },
+    "zip_codes": [
+      "33400"
+    ],
+    "geo": {
+      "lat": "28.203",
+      "lon": "83.728"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0443",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "बाग्लुङ",
+      "en": "Baglung",
+      "slug": "baglung-np0443"
+    },
+    "code": {
+      "id": "NP0443",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP04",
+      "level": 1,
+      "name": {
+        "local": "गण्डकी",
+        "en": "Gandaki",
+        "slug": "gandaki-np04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 11
+    },
+    "zip_codes": [
+      "33300"
+    ],
+    "geo": {
+      "lat": "28.356",
+      "lon": "83.143"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0444",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "म्याग्दी",
+      "en": "Myagdi",
+      "slug": "myagdi-np0444"
+    },
+    "code": {
+      "id": "NP0444",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP04",
+      "level": 1,
+      "name": {
+        "local": "गण्डकी",
+        "en": "Gandaki",
+        "slug": "gandaki-np04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 7
+    },
+    "zip_codes": [
+      "33200"
+    ],
+    "geo": {
+      "lat": "28.546",
+      "lon": "83.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0445",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "मुस्ताङ",
+      "en": "Mustang",
+      "slug": "mustang-np0445"
+    },
+    "code": {
+      "id": "NP0445",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP04",
+      "level": 1,
+      "name": {
+        "local": "गण्डकी",
+        "en": "Gandaki",
+        "slug": "gandaki-np04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 5
+    },
+    "zip_codes": [
+      "33100"
+    ],
+    "geo": {
+      "lat": "28.948",
+      "lon": "83.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0447",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "पूर्वी नवलपरासी",
+      "en": "Nawalparasi East",
+      "slug": "nawalparasi-east-np0447"
+    },
+    "code": {
+      "id": "NP0447",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP04",
+      "level": 1,
+      "name": {
+        "local": "गण्डकी",
+        "en": "Gandaki",
+        "slug": "gandaki-np04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP04",
+        "level": 1,
+        "name": {
+          "local": "गण्डकी",
+          "en": "Gandaki",
+          "slug": "gandaki-np04"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 9
+    },
+    "zip_codes": [
+      "33000"
+    ],
+    "geo": {
+      "lat": "27.654",
+      "lon": "84.031"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0546",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "पाल्पा",
+      "en": "Palpa",
+      "slug": "palpa-np0546"
+    },
+    "code": {
+      "id": "NP0546",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP05",
+      "level": 1,
+      "name": {
+        "local": "लुम्बिनी",
+        "en": "Lumbini",
+        "slug": "lumbini-np05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 10
+    },
+    "zip_codes": [
+      "32500"
+    ],
+    "geo": {
+      "lat": "27.81",
+      "lon": "83.63"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0547",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "पश्चिम नवलपरासी",
+      "en": "Nawalparasi West",
+      "slug": "nawalparasi-west-np0547"
+    },
+    "code": {
+      "id": "NP0547",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP05",
+      "level": 1,
+      "name": {
+        "local": "लुम्बिनी",
+        "en": "Lumbini",
+        "slug": "lumbini-np05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 7
+    },
+    "zip_codes": [
+      "33000"
+    ],
+    "geo": {
+      "lat": "27.52",
+      "lon": "83.737"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0548",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "रुपन्देही",
+      "en": "Rupandehi",
+      "slug": "rupandehi-np0548"
+    },
+    "code": {
+      "id": "NP0548",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP05",
+      "level": 1,
+      "name": {
+        "local": "लुम्बिनी",
+        "en": "Lumbini",
+        "slug": "lumbini-np05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 17
+    },
+    "zip_codes": [
+      "32900"
+    ],
+    "geo": {
+      "lat": "27.549",
+      "lon": "83.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0549",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "कपिलवस्तु",
+      "en": "Kapilbastu",
+      "slug": "kapilbastu-np0549"
+    },
+    "code": {
+      "id": "NP0549",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP05",
+      "level": 1,
+      "name": {
+        "local": "लुम्बिनी",
+        "en": "Lumbini",
+        "slug": "lumbini-np05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 10
+    },
+    "zip_codes": [
+      "32800"
+    ],
+    "geo": {
+      "lat": "27.619",
+      "lon": "82.982"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0550",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "अर्घाखाँची",
+      "en": "Arghakhanchi",
+      "slug": "arghakhanchi-np0550"
+    },
+    "code": {
+      "id": "NP0550",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP05",
+      "level": 1,
+      "name": {
+        "local": "लुम्बिनी",
+        "en": "Lumbini",
+        "slug": "lumbini-np05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 6
+    },
+    "zip_codes": [
+      "32700"
+    ],
+    "geo": {
+      "lat": "27.932",
+      "lon": "83.146"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0551",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "गुल्मी",
+      "en": "Gulmi",
+      "slug": "gulmi-np0551"
+    },
+    "code": {
+      "id": "NP0551",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP05",
+      "level": 1,
+      "name": {
+        "local": "लुम्बिनी",
+        "en": "Lumbini",
+        "slug": "lumbini-np05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 12
+    },
+    "zip_codes": [
+      "32600"
+    ],
+    "geo": {
+      "lat": "28.096",
+      "lon": "83.329"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0552",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "पूर्वी रुकुम",
+      "en": "Rukum East",
+      "slug": "rukum-east-np0552"
+    },
+    "code": {
+      "id": "NP0552",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP05",
+      "level": 1,
+      "name": {
+        "local": "लुम्बिनी",
+        "en": "Lumbini",
+        "slug": "lumbini-np05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 4
+    },
+    "zip_codes": [
+      "22000"
+    ],
+    "geo": {
+      "lat": "28.672",
+      "lon": "82.859"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0554",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "रोल्पा",
+      "en": "Rolpa",
+      "slug": "rolpa-np0554"
+    },
+    "code": {
+      "id": "NP0554",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP05",
+      "level": 1,
+      "name": {
+        "local": "लुम्बिनी",
+        "en": "Lumbini",
+        "slug": "lumbini-np05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 10
+    },
+    "zip_codes": [
+      "22100"
+    ],
+    "geo": {
+      "lat": "28.325",
+      "lon": "82.644"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0555",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "प्यूठान",
+      "en": "Pyuthan",
+      "slug": "pyuthan-np0555"
+    },
+    "code": {
+      "id": "NP0555",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP05",
+      "level": 1,
+      "name": {
+        "local": "लुम्बिनी",
+        "en": "Lumbini",
+        "slug": "lumbini-np05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 9
+    },
+    "zip_codes": [
+      "22300"
+    ],
+    "geo": {
+      "lat": "28.12",
+      "lon": "82.83"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0556",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "दाङ",
+      "en": "Dang",
+      "slug": "dang-np0556"
+    },
+    "code": {
+      "id": "NP0556",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP05",
+      "level": 1,
+      "name": {
+        "local": "लुम्बिनी",
+        "en": "Lumbini",
+        "slug": "lumbini-np05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 10
+    },
+    "zip_codes": [
+      "22400"
+    ],
+    "geo": {
+      "lat": "27.98",
+      "lon": "82.469"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0557",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "बाँके",
+      "en": "Banke",
+      "slug": "banke-np0557"
+    },
+    "code": {
+      "id": "NP0557",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP05",
+      "level": 1,
+      "name": {
+        "local": "लुम्बिनी",
+        "en": "Lumbini",
+        "slug": "lumbini-np05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 8
+    },
+    "zip_codes": [
+      "21900"
+    ],
+    "geo": {
+      "lat": "28.096",
+      "lon": "81.773"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0558",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "बर्दिया",
+      "en": "Bardiya",
+      "slug": "bardiya-np0558"
+    },
+    "code": {
+      "id": "NP0558",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP05",
+      "level": 1,
+      "name": {
+        "local": "लुम्बिनी",
+        "en": "Lumbini",
+        "slug": "lumbini-np05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP05",
+        "level": 1,
+        "name": {
+          "local": "लुम्बिनी",
+          "en": "Lumbini",
+          "slug": "lumbini-np05"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 9
+    },
+    "zip_codes": [
+      "21800"
+    ],
+    "geo": {
+      "lat": "28.372",
+      "lon": "81.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0652",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "पश्चिम रुकुम",
+      "en": "Rukum West",
+      "slug": "rukum-west-np0652"
+    },
+    "code": {
+      "id": "NP0652",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP06",
+      "level": 1,
+      "name": {
+        "local": "कर्णाली",
+        "en": "Karnali",
+        "slug": "karnali-np06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 6
+    },
+    "zip_codes": [
+      "22000"
+    ],
+    "geo": {
+      "lat": "28.756",
+      "lon": "82.428"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0653",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "सल्यान",
+      "en": "Salyan",
+      "slug": "salyan-np0653"
+    },
+    "code": {
+      "id": "NP0653",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP06",
+      "level": 1,
+      "name": {
+        "local": "कर्णाली",
+        "en": "Karnali",
+        "slug": "karnali-np06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 10
+    },
+    "zip_codes": [
+      "22200"
+    ],
+    "geo": {
+      "lat": "28.407",
+      "lon": "82.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0659",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "सुर्खेत",
+      "en": "Surkhet",
+      "slug": "surkhet-np0659"
+    },
+    "code": {
+      "id": "NP0659",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP06",
+      "level": 1,
+      "name": {
+        "local": "कर्णाली",
+        "en": "Karnali",
+        "slug": "karnali-np06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 9
+    },
+    "zip_codes": [
+      "21700"
+    ],
+    "geo": {
+      "lat": "28.658",
+      "lon": "81.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0660",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "जाजरकोट",
+      "en": "Jajarkot",
+      "slug": "jajarkot-np0660"
+    },
+    "code": {
+      "id": "NP0660",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP06",
+      "level": 1,
+      "name": {
+        "local": "कर्णाली",
+        "en": "Karnali",
+        "slug": "karnali-np06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 7
+    },
+    "zip_codes": [
+      "21500"
+    ],
+    "geo": {
+      "lat": "28.869",
+      "lon": "82.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0661",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "दैलेख",
+      "en": "Dailekh",
+      "slug": "dailekh-np0661"
+    },
+    "code": {
+      "id": "NP0661",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP06",
+      "level": 1,
+      "name": {
+        "local": "कर्णाली",
+        "en": "Karnali",
+        "slug": "karnali-np06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 11
+    },
+    "zip_codes": [
+      "21600"
+    ],
+    "geo": {
+      "lat": "28.885",
+      "lon": "81.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0662",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "डोल्पा",
+      "en": "Dolpa",
+      "slug": "dolpa-np0662"
+    },
+    "code": {
+      "id": "NP0662",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP06",
+      "level": 1,
+      "name": {
+        "local": "कर्णाली",
+        "en": "Karnali",
+        "slug": "karnali-np06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 8
+    },
+    "zip_codes": [
+      "21400"
+    ],
+    "geo": {
+      "lat": "29.214",
+      "lon": "83.037"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0663",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "जुम्ला",
+      "en": "Jumla",
+      "slug": "jumla-np0663"
+    },
+    "code": {
+      "id": "NP0663",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP06",
+      "level": 1,
+      "name": {
+        "local": "कर्णाली",
+        "en": "Karnali",
+        "slug": "karnali-np06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 8
+    },
+    "zip_codes": [
+      "21200"
+    ],
+    "geo": {
+      "lat": "29.239",
+      "lon": "82.199"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0664",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "कालिकोट",
+      "en": "Kalikot",
+      "slug": "kalikot-np0664"
+    },
+    "code": {
+      "id": "NP0664",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP06",
+      "level": 1,
+      "name": {
+        "local": "कर्णाली",
+        "en": "Karnali",
+        "slug": "karnali-np06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 9
+    },
+    "zip_codes": [
+      "21300"
+    ],
+    "geo": {
+      "lat": "29.216",
+      "lon": "81.689"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0665",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "मुगु",
+      "en": "Mugu",
+      "slug": "mugu-np0665"
+    },
+    "code": {
+      "id": "NP0665",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP06",
+      "level": 1,
+      "name": {
+        "local": "कर्णाली",
+        "en": "Karnali",
+        "slug": "karnali-np06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 4
+    },
+    "zip_codes": [
+      "21100"
+    ],
+    "geo": {
+      "lat": "29.678",
+      "lon": "82.531"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0666",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "हुम्ला",
+      "en": "Humla",
+      "slug": "humla-np0666"
+    },
+    "code": {
+      "id": "NP0666",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP06",
+      "level": 1,
+      "name": {
+        "local": "कर्णाली",
+        "en": "Karnali",
+        "slug": "karnali-np06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP06",
+        "level": 1,
+        "name": {
+          "local": "कर्णाली",
+          "en": "Karnali",
+          "slug": "karnali-np06"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 7
+    },
+    "zip_codes": [
+      "21000"
+    ],
+    "geo": {
+      "lat": "30.026",
+      "lon": "81.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0767",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "बझाङ",
+      "en": "Bajhang",
+      "slug": "bajhang-np0767"
+    },
+    "code": {
+      "id": "NP0767",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP07",
+      "level": 1,
+      "name": {
+        "local": "सुदूरपश्चिम",
+        "en": "Sudur Paschim",
+        "slug": "sudur-paschim-np07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 13
+    },
+    "zip_codes": [
+      "10500"
+    ],
+    "geo": {
+      "lat": "29.723",
+      "lon": "81.246"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0768",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "बाजुरा",
+      "en": "Bajura",
+      "slug": "bajura-np0768"
+    },
+    "code": {
+      "id": "NP0768",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP07",
+      "level": 1,
+      "name": {
+        "local": "सुदूरपश्चिम",
+        "en": "Sudur Paschim",
+        "slug": "sudur-paschim-np07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 10
+    },
+    "zip_codes": [
+      "10600"
+    ],
+    "geo": {
+      "lat": "29.611",
+      "lon": "81.577"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0769",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "अछाम",
+      "en": "Achham",
+      "slug": "achham-np0769"
+    },
+    "code": {
+      "id": "NP0769",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP07",
+      "level": 1,
+      "name": {
+        "local": "सुदूरपश्चिम",
+        "en": "Sudur Paschim",
+        "slug": "sudur-paschim-np07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 11
+    },
+    "zip_codes": [
+      "10700"
+    ],
+    "geo": {
+      "lat": "29.068",
+      "lon": "81.294"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0770",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "डोटी",
+      "en": "Doti",
+      "slug": "doti-np0770"
+    },
+    "code": {
+      "id": "NP0770",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP07",
+      "level": 1,
+      "name": {
+        "local": "सुदूरपश्चिम",
+        "en": "Sudur Paschim",
+        "slug": "sudur-paschim-np07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 10
+    },
+    "zip_codes": [
+      "10800"
+    ],
+    "geo": {
+      "lat": "29.188",
+      "lon": "80.862"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0771",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "कैलाली",
+      "en": "Kailali",
+      "slug": "kailali-np0771"
+    },
+    "code": {
+      "id": "NP0771",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP07",
+      "level": 1,
+      "name": {
+        "local": "सुदूरपश्चिम",
+        "en": "Sudur Paschim",
+        "slug": "sudur-paschim-np07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 13
+    },
+    "zip_codes": [
+      "10900"
+    ],
+    "geo": {
+      "lat": "28.731",
+      "lon": "80.904"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0772",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "कञ्चनपुर",
+      "en": "Kanchanpur",
+      "slug": "kanchanpur-np0772"
+    },
+    "code": {
+      "id": "NP0772",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP07",
+      "level": 1,
+      "name": {
+        "local": "सुदूरपश्चिम",
+        "en": "Sudur Paschim",
+        "slug": "sudur-paschim-np07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 10
+    },
+    "zip_codes": [
+      "10400"
+    ],
+    "geo": {
+      "lat": "28.845",
+      "lon": "80.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0773",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "डडेलधुरा",
+      "en": "Dadeldhura",
+      "slug": "dadeldhura-np0773"
+    },
+    "code": {
+      "id": "NP0773",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP07",
+      "level": 1,
+      "name": {
+        "local": "सुदूरपश्चिम",
+        "en": "Sudur Paschim",
+        "slug": "sudur-paschim-np07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 7
+    },
+    "zip_codes": [
+      "10300"
+    ],
+    "geo": {
+      "lat": "29.209",
+      "lon": "80.501"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0774",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "बैतडी",
+      "en": "Baitadi",
+      "slug": "baitadi-np0774"
+    },
+    "code": {
+      "id": "NP0774",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP07",
+      "level": 1,
+      "name": {
+        "local": "सुदूरपश्चिम",
+        "en": "Sudur Paschim",
+        "slug": "sudur-paschim-np07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 10
+    },
+    "zip_codes": [
+      "10200"
+    ],
+    "geo": {
+      "lat": "29.508",
+      "lon": "80.558"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "NP0775",
+    "level": 2,
+    "level_name": {
+      "local": "जिल्ला",
+      "en": "District"
+    },
+    "name": {
+      "local": "दार्चुला",
+      "en": "Darchula",
+      "slug": "darchula-np0775"
+    },
+    "code": {
+      "id": "NP0775",
+      "iso": null
+    },
+    "parent": {
+      "id": "NP07",
+      "level": 1,
+      "name": {
+        "local": "सुदूरपश्चिम",
+        "en": "Sudur Paschim",
+        "slug": "sudur-paschim-np07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "NP07",
+        "level": 1,
+        "name": {
+          "local": "सुदूरपश्चिम",
+          "en": "Sudur Paschim",
+          "slug": "sudur-paschim-np07"
+        }
+      }
+    ],
+    "children_count": {
+      "local_unit": 9
+    },
+    "zip_codes": [
+      "10100"
+    ],
+    "geo": {
+      "lat": "29.926",
+      "lon": "80.789"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

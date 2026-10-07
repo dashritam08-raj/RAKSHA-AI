@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+.env
+*.sqlite
+*.db
+
+# Node
+node_modules/
+dist/
+
+# ML artifacts
+models/*.joblib
+
+# Large ML datasets
+ml/data/raw/
+ml/data/processed/
+ml/models/*.joblib
+
+ml/models/

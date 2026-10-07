@@ -1,0 +1,2 @@
+incident_id,location_id,observed_at,latitude,longitude,disaster_type,severity,people_affected,target_risk_score
+REPLACE_001,REPLACE_LOCATION,2026-01-01T00:00:00Z,0,0,flood,high,0,

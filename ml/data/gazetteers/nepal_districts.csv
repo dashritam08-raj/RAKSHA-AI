@@ -1,0 +1,78 @@
+district_en,province_en,latitude,longitude,source_name,source_url,license
+Taplejung,Koshi,27.61,87.822,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Panchthar,Koshi,27.149,87.855,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Ilam,Koshi,26.885,87.92,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Jhapa,Koshi,26.584,87.886,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Morang,Koshi,26.611,87.473,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Sunsari,Koshi,26.641,87.141,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Dhankuta,Koshi,27.018,87.313,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Terhathum,Koshi,27.132,87.524,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Sankhuwasabha,Koshi,27.548,87.227,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Bhojpur,Koshi,27.175,87.094,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Solukhumbu,Koshi,27.726,86.782,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Khotang,Koshi,27.156,86.681,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Okhaldhunga,Koshi,27.336,86.448,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Udayapur,Koshi,26.933,86.52,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Saptari,Madhesh,26.607,86.749,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Siraha,Madhesh,26.742,86.35,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Dhanusa,Madhesh,26.851,86.036,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Mahottari,Madhesh,26.885,85.797,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Sarlahi,Madhesh,26.968,85.564,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Rautahat,Madhesh,26.989,85.283,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Bara,Madhesh,27.107,85.069,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Parsa,Madhesh,27.223,84.827,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Sindhuli,Bagmati,27.185,86.07,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Ramechhap,Bagmati,27.537,86.257,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Dolakha,Bagmati,27.824,86.222,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Sindhupalchok,Bagmati,27.907,85.756,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Kavrepalanchok,Bagmati,27.545,85.624,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Lalitpur,Bagmati,27.548,85.323,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Bhaktapur,Bagmati,27.674,85.426,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Kathmandu,Bagmati,27.694,85.285,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Nuwakot,Bagmati,27.926,85.248,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Rasuwa,Bagmati,28.176,85.479,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Dhading,Bagmati,28.008,84.906,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Makwanpur,Bagmati,27.437,85.053,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Chitawan,Bagmati,27.618,84.453,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Gorkha,Gandaki,28.274,84.841,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Lamjung,Gandaki,28.283,84.42,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Manang,Gandaki,28.673,84.169,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Kaski,Gandaki,28.345,83.971,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Tanahu,Gandaki,27.935,84.223,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Syangja,Gandaki,28.045,83.827,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Parbat,Gandaki,28.203,83.728,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Baglung,Gandaki,28.356,83.143,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Myagdi,Gandaki,28.546,83.463,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Mustang,Gandaki,28.948,83.901,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Nawalparasi East,Gandaki,27.654,84.031,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Palpa,Lumbini,27.81,83.63,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Nawalparasi West,Lumbini,27.52,83.737,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Rupandehi,Lumbini,27.549,83.403,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Kapilbastu,Lumbini,27.619,82.982,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Arghakhanchi,Lumbini,27.932,83.146,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Gulmi,Lumbini,28.096,83.329,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Rukum East,Lumbini,28.672,82.859,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Rolpa,Lumbini,28.325,82.644,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Pyuthan,Lumbini,28.12,82.83,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Dang,Lumbini,27.98,82.469,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Banke,Lumbini,28.096,81.773,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Bardiya,Lumbini,28.372,81.45,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Rukum West,Karnali,28.756,82.428,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Salyan,Karnali,28.407,82.168,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Surkhet,Karnali,28.658,81.514,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Jajarkot,Karnali,28.869,82.168,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Dailekh,Karnali,28.885,81.7,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Dolpa,Karnali,29.214,83.037,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Jumla,Karnali,29.239,82.199,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Kalikot,Karnali,29.216,81.689,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Mugu,Karnali,29.678,82.531,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Humla,Karnali,30.026,81.833,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Bajhang,Sudur Paschim,29.723,81.246,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Bajura,Sudur Paschim,29.611,81.577,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Achham,Sudur Paschim,29.068,81.294,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Doti,Sudur Paschim,29.188,80.862,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Kailali,Sudur Paschim,28.731,80.904,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Kanchanpur,Sudur Paschim,28.845,80.283,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Dadeldhura,Sudur Paschim,29.209,80.501,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Baitadi,Sudur Paschim,29.508,80.558,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
+Darchula,Sudur Paschim,29.926,80.789,Nepal Administrative Divisions Dataset,https://github.com/open-admin-data/nepal-administrative-divisions,CC-BY-4.0
