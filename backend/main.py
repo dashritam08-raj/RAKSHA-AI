@@ -55,12 +55,14 @@ REGISTRATION_MAX_ATTEMPTS = 5
 REGISTRATION_ROLES = {"Dispatcher", "Responder"}
 REGISTRATION_ATTEMPTS = defaultdict(deque)
 LOCATION_RETENTION_HOURS = int(os.getenv("RAKSHA_LOCATION_RETENTION_HOURS", "24"))
-ENV_CACHE_SECONDS = int(os.getenv("RAKSHA_ENV_CACHE_SECONDS", "60"))
+ENV_CACHE_SECONDS = int(os.getenv("RAKSHA_ENV_CACHE_SECONDS", "300"))
+WEATHER_CACHE_SECONDS = int(os.getenv("RAKSHA_WEATHER_CACHE_SECONDS", "600"))
 SACHET_CAP_URL = os.getenv("SACHET_CAP_URL", "").strip()
 SACHET_SOURCE_URL = "https://sachet.ndma.gov.in/"
 USGS_EARTHQUAKE_URL = "https://earthquake.usgs.gov/fdsnws/event/1/query"
 OPEN_METEO_URL = "https://api.open-meteo.com/v1/forecast"
 _environment_cache = {}
+_weather_cache = {}
 _sachet_cache = {"etag": None, "xml": None, "fetched_at": 0.0, "alerts": []}
 
 logger = logging.getLogger("raksha")
@@ -1384,19 +1386,7 @@ def _environment_cache_key(latitude: float, longitude: float) -> str:
     return f"{round(latitude, 3)}:{round(longitude, 3)}"
 
 
-def fetch_weather(latitude: float, longitude: float):
-    params = urlencode({
-        "latitude": latitude,
-        "longitude": longitude,
-        "current": "temperature_2m,relative_humidity_2m,precipitation,rain,weather_code,wind_speed_10m,wind_gusts_10m,pressure_msl",
-        "hourly": "precipitation,precipitation_probability,wind_speed_10m,wind_gusts_10m,temperature_2m,weather_code",
-        "forecast_days": 2,
-        "timezone": "auto",
-    })
-    status, headers, body = _fetch_url(f"{OPEN_METEO_URL}?{params}")
-    if status != 200:
-        raise RuntimeError(f"Weather provider returned {status}")
-    payload = json.loads(body)
+def _parse_weather_payload(payload: dict, source: str, source_url: str):
     current = payload.get("current") or {}
     hourly = payload.get("hourly") or {}
     times = hourly.get("time") or []
@@ -1404,14 +1394,18 @@ def fetch_weather(latitude: float, longitude: float):
     rain_probability = hourly.get("precipitation_probability") or []
     wind_speed = hourly.get("wind_speed_10m") or []
     wind_gusts = hourly.get("wind_gusts_10m") or []
+    temperatures = hourly.get("temperature_2m") or []
+    weather_codes = hourly.get("weather_code") or []
+
     next_24_precip = round(sum(_safe_float(x, 0.0) or 0.0 for x in precipitation[:24]), 1)
     max_rain_probability = max([int(_safe_float(x, 0) or 0) for x in rain_probability[:24]] or [0])
     max_wind = max([_safe_float(x, 0.0) or 0.0 for x in wind_speed[:24]] or [0.0])
     max_gust = max([_safe_float(x, 0.0) or 0.0 for x in wind_gusts[:24]] or [0.0])
+
     return {
-        "source": "Open-Meteo",
+        "source": source,
         "source_type": "weather_model",
-        "source_url": "https://open-meteo.com/",
+        "source_url": source_url,
         "timezone": payload.get("timezone"),
         "current": current,
         "next_24h": {
@@ -1427,13 +1421,133 @@ def fetch_weather(latitude: float, longitude: float):
                 "precipitation_probability_pct": _safe_float(rain_probability[i] if i < len(rain_probability) else None),
                 "wind_speed_kmh": _safe_float(wind_speed[i] if i < len(wind_speed) else None),
                 "wind_gust_kmh": _safe_float(wind_gusts[i] if i < len(wind_gusts) else None),
-                "temperature_c": _safe_float((hourly.get("temperature_2m") or [])[i] if i < len(hourly.get("temperature_2m") or []) else None),
-                "weather_code": (hourly.get("weather_code") or [])[i] if i < len(hourly.get("weather_code") or []) else None,
+                "temperature_c": _safe_float(temperatures[i] if i < len(temperatures) else None),
+                "weather_code": weather_codes[i] if i < len(weather_codes) else None,
             }
             for i in range(min(12, len(times)))
         ],
         "fetched_at": utc_now_iso(),
     }
+
+
+def _fetch_wttr_weather(latitude: float, longitude: float):
+    url = f"https://wttr.in/{latitude:.4f},{longitude:.4f}?format=j1"
+    status, headers, body = _fetch_url(
+        url,
+        headers={"User-Agent": "RAKSHA-AI/4.2 (+environment-monitoring)"},
+        timeout=10,
+    )
+    if status != 200:
+        raise RuntimeError(f"wttr.in returned {status}")
+
+    payload = json.loads(body)
+    current_rows = payload.get("current_condition") or []
+    current_row = current_rows[0] if current_rows else {}
+    weather_days = payload.get("weather") or []
+
+    current = {
+        "temperature_2m": _safe_float(current_row.get("temp_C")),
+        "relative_humidity_2m": _safe_float(current_row.get("humidity")),
+        "precipitation": _safe_float(current_row.get("precipMM")),
+        "weather_code": current_row.get("weatherCode"),
+        "wind_speed_10m": _safe_float(current_row.get("windspeedKmph")),
+        "wind_gusts_10m": _safe_float(current_row.get("WindGustKmph")),
+        "pressure_msl": _safe_float(current_row.get("pressure")),
+        "time": utc_now_iso(),
+        "weather_description": (
+            (current_row.get("weatherDesc") or [{}])[0].get("value")
+            if current_row.get("weatherDesc")
+            else None
+        ),
+    }
+
+    forecast_hours = []
+    for day in weather_days:
+        for hour in day.get("hourly") or []:
+            time_value = hour.get("time")
+            if isinstance(time_value, str) and len(time_value) <= 4:
+                hhmm = time_value.zfill(4)
+                date_value = day.get("date")
+                if date_value:
+                    time_value = f"{date_value}T{hhmm[:2]}:{hhmm[2:]}"
+            forecast_hours.append({
+                "time": time_value,
+                "precipitation_mm": _safe_float(hour.get("precipMM")),
+                "precipitation_probability_pct": _safe_float(hour.get("chanceofrain")),
+                "wind_speed_kmh": _safe_float(hour.get("windspeedKmph")),
+                "wind_gust_kmh": _safe_float(hour.get("WindGustKmph")),
+                "temperature_c": _safe_float(hour.get("tempC")),
+                "weather_code": hour.get("weatherCode"),
+            })
+            if len(forecast_hours) >= 12:
+                break
+        if len(forecast_hours) >= 12:
+            break
+
+    next_24 = forecast_hours[:12]
+    return {
+        "source": "wttr.in (fallback)",
+        "source_type": "weather_model",
+        "source_url": "https://wttr.in/",
+        "timezone": payload.get("timezone"),
+        "current": current,
+        "next_24h": {
+            "precipitation_mm": round(
+                sum(_safe_float(x.get("precipitation_mm"), 0.0) or 0.0 for x in next_24), 1
+            ),
+            "max_precipitation_probability_pct": int(
+                max([_safe_float(x.get("precipitation_probability_pct"), 0) or 0 for x in next_24] or [0])
+            ),
+            "max_wind_kmh": round(
+                max([_safe_float(x.get("wind_speed_kmh"), 0.0) or 0.0 for x in next_24] or [0.0]), 1
+            ),
+            "max_wind_gusts_kmh": round(
+                max([_safe_float(x.get("wind_gust_kmh"), 0.0) or 0.0 for x in next_24] or [0.0]), 1
+            ),
+        },
+        "forecast_hours": forecast_hours,
+        "fetched_at": utc_now_iso(),
+    }
+
+
+def fetch_weather(latitude: float, longitude: float):
+    key = _environment_cache_key(latitude, longitude)
+    now = time.time()
+    cached = _weather_cache.get(key)
+    if cached and now - cached["timestamp"] < WEATHER_CACHE_SECONDS:
+        result = dict(cached["value"])
+        result["cached"] = True
+        return result
+
+    params = urlencode({
+        "latitude": latitude,
+        "longitude": longitude,
+        "current": "temperature_2m,relative_humidity_2m,precipitation,rain,weather_code,wind_speed_10m,wind_gusts_10m,pressure_msl",
+        "hourly": "precipitation,precipitation_probability,wind_speed_10m,wind_gusts_10m,temperature_2m,weather_code",
+        "forecast_days": 2,
+        "timezone": "auto",
+    })
+
+    try:
+        status, headers, body = _fetch_url(
+            f"{OPEN_METEO_URL}?{params}",
+            headers={"User-Agent": "RAKSHA-AI/4.2 (+environment-monitoring)"},
+        )
+        if status != 200:
+            raise RuntimeError(f"Weather provider returned {status}")
+        payload = json.loads(body)
+        result = _parse_weather_payload(payload, "Open-Meteo", "https://open-meteo.com/")
+    except HTTPError as error:
+        if error.code != 429:
+            raise
+        logger.warning("Open-Meteo rate limited (429); using wttr.in fallback.")
+        result = _fetch_wttr_weather(latitude, longitude)
+    except (URLError, RuntimeError, json.JSONDecodeError) as error:
+        logger.warning("Open-Meteo unavailable (%s); trying wttr.in fallback.", error)
+        result = _fetch_wttr_weather(latitude, longitude)
+
+    _weather_cache[key] = {"timestamp": now, "value": result}
+    return result
 
 
 def fetch_earthquakes(latitude: float, longitude: float, radius_km: int = 300):

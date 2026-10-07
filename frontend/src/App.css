@@ -8650,3 +8650,461 @@ textarea:focus-visible {
     animation-iteration-count: 1 !important;
   }
 }
+/* =========================================================
+   RAKSHA AI — FINAL VISIBILITY FIX
+   Light cards + dark text / blue icons
+   ========================================================= */
+
+/* ---------- LIVE TRACKING ---------- */
+
+.tracking-state-icon {
+  background: #f1f5f9 !important;
+  color: #2563eb !important;
+}
+
+.tracking-state-icon svg {
+  color: #2563eb !important;
+  stroke: #2563eb !important;
+}
+
+.tracking-state strong {
+  color: #0f172a !important;
+}
+
+.tracking-state span {
+  color: #475569 !important;
+}
+
+.tracking-target-control label {
+  color: #334155 !important;
+}
+
+.tracking-target-control select {
+  background: #ffffff !important;
+  color: #0f172a !important;
+  border: 1px solid #cbd5e1 !important;
+}
+
+.tracking-target-control select option {
+  background: #ffffff !important;
+  color: #0f172a !important;
+}
+
+.tracking-metrics > div {
+  background: #ffffff !important;
+  border-color: #dbe4ee !important;
+}
+
+.tracking-metrics span {
+  color: #64748b !important;
+}
+
+.tracking-metrics strong {
+  color: #0f172a !important;
+}
+
+.tracking-note {
+  background: #f1f5f9 !important;
+  color: #475569 !important;
+}
+
+.tracking-note svg {
+  color: #475569 !important;
+}
+
+/* ---------- RESOURCE FILTER BAR ---------- */
+
+.resource-toolbar {
+  background: #ffffff !important;
+  border-color: #dbe4ee !important;
+}
+
+.resource-filter button {
+  color: #475569 !important;
+  background: transparent !important;
+}
+
+.resource-filter button:hover {
+  background: #f1f5f9 !important;
+  color: #0f172a !important;
+}
+
+.resource-filter button.active {
+  background: #0f172a !important;
+  color: #ffffff !important;
+}
+
+/* ---------- RESOURCE CARDS ---------- */
+
+.resource-card {
+  background: #ffffff !important;
+  border-color: #dbe4ee !important;
+  color: #0f172a !important;
+}
+
+.resource-card h3 {
+  color: #0f172a !important;
+}
+
+.resource-card > p {
+  color: #64748b !important;
+}
+
+.resource-card > p svg {
+  color: #64748b !important;
+}
+
+.resource-icon {
+  background: #eff6ff !important;
+  color: #2563eb !important;
+}
+
+.resource-icon svg {
+  color: #2563eb !important;
+  stroke: #2563eb !important;
+}
+
+.resource-meta span {
+  background: #f8fafc !important;
+  color: #475569 !important;
+}
+
+.resource-tracking-assignment {
+  background: #f8fbff !important;
+  border-color: #dbe7f3 !important;
+  color: #334155 !important;
+}
+
+.resource-tracking-label {
+  color: #334155 !important;
+}
+
+.resource-tracking-label svg {
+  color: #2563eb !important;
+}
+
+.resource-tracking-assignment select {
+  background: #ffffff !important;
+  color: #0f172a !important;
+  border-color: #cbd5e1 !important;
+}
+
+.resource-tracking-assignment select option {
+  background: #ffffff !important;
+  color: #0f172a !important;
+}
+
+.resource-tracking-assignment small {
+  color: #64748b !important;
+  opacity: 1 !important;
+}
+
+/* ---------- RESOURCE SEARCH ---------- */
+
+.search-box {
+  background: #ffffff !important;
+  border-color: #dbe4ee !important;
+}
+
+.search-box svg {
+  color: #64748b !important;
+}
+
+.search-box input {
+  background: transparent !important;
+  color: #0f172a !important;
+}
+
+.search-box input::placeholder {
+  color: #94a3b8 !important;
+}
+
+/* ---------- RESOURCE DROPDOWNS ---------- */
+
+.filter-control {
+  background: #ffffff !important;
+  border-color: #dbe4ee !important;
+}
+
+.filter-control svg {
+  color: #64748b !important;
+}
+
+.filter-control select {
+  background: transparent !important;
+  color: #334155 !important;
+}
+
+.filter-control select option {
+  background: #ffffff !important;
+  color: #0f172a !important;
+}
+
+/* ---------- RESOURCE STATUS ---------- */
+
+.resource-card .status-badge {
+  color: #047857 !important;
+}
+
+/* ---------- FORCE DARK CONTENT ON LIGHT RESOURCE SURFACES ---------- */
+
+.resource-card strong,
+.resource-card span,
+.resource-card small,
+.resource-card label {
+  color: #334155 !important;
+}
+
+.resource-card h3,
+.resource-card .resource-name {
+  color: #0f172a !important;
+}
+
+.resource-card .resource-action,
+.resource-card .resource-dispatch-button {
+  color: #ffffff !important;
+}
+
+/* Keep icons visible */
+.resource-card svg,
+.tracking-page svg {
+  vector-effect: non-scaling-stroke;
+}
+/* =========================================================
+   RAKSHA AI — ALERTS + USER MANAGEMENT VISIBILITY FIX
+   ========================================================= */
+
+/* ---------------- EMERGENCY ALERTS ---------------- */
+
+.alerts-summary > div {
+  background: #ffffff !important;
+  border-color: #dbe4ee !important;
+}
+
+.alerts-summary strong {
+  color: #0f172a !important;
+}
+
+.alerts-summary span {
+  color: #64748b !important;
+}
+
+.alert-card {
+  background: #ffffff !important;
+  color: #0f172a !important;
+  border-color: #dbe4ee !important;
+}
+
+.alert-card .alert-icon {
+  background: #f8fafc !important;
+  color: #dc2626 !important;
+}
+
+.alert-card .alert-icon svg {
+  color: #dc2626 !important;
+  stroke: #dc2626 !important;
+}
+
+.alert-content {
+  color: #0f172a !important;
+}
+
+.alert-title-row h3 {
+  color: #0f172a !important;
+}
+
+.alert-content > p {
+  color: #475569 !important;
+}
+
+.alert-meta {
+  color: #64748b !important;
+}
+
+.alert-meta span {
+  color: #64748b !important;
+}
+
+.alert-meta svg {
+  color: #64748b !important;
+}
+
+.dismiss-button {
+  background: #ffffff !important;
+  color: #334155 !important;
+  border: 1px solid #cbd5e1 !important;
+}
+
+.dismiss-button:hover {
+  background: #f8fafc !important;
+  color: #0f172a !important;
+}
+
+.role-restricted-badge {
+  color: #64748b !important;
+}
+
+/* ---------------- USER MANAGEMENT ---------------- */
+
+.user-management-grid .panel {
+  background: #ffffff !important;
+  color: #0f172a !important;
+  border-color: #dbe4ee !important;
+}
+
+.user-management-grid .panel-heading h3 {
+  color: #14233b !important;
+}
+
+.user-management-grid .panel-heading p {
+  color: #64748b !important;
+}
+
+.user-management-grid .section-kicker {
+  color: #64748b !important;
+}
+
+.user-form label {
+  color: #334155 !important;
+}
+
+.user-form input,
+.user-form select {
+  background: #ffffff !important;
+  color: #0f172a !important;
+  border-color: #cbd5e1 !important;
+}
+
+.user-form input::placeholder {
+  color: #94a3b8 !important;
+}
+
+.user-form select option {
+  background: #ffffff !important;
+  color: #0f172a !important;
+}
+
+.user-password-hint {
+  color: #64748b !important;
+}
+
+.user-count-pill {
+  color: #334155 !important;
+}
+
+.user-table th {
+  color: #64748b !important;
+  background: #f8fbff !important;
+}
+
+.user-table td {
+  color: #334155 !important;
+}
+
+.managed-user strong {
+  color: #17243a !important;
+}
+
+.managed-user small,
+.user-table td > small {
+  color: #64748b !important;
+}
+
+.managed-avatar {
+  color: #4e66bb !important;
+}
+
+.role-chip.admin {
+  color: #6d42a8 !important;
+}
+
+.role-chip.dispatcher {
+  color: #17628f !important;
+}
+
+.role-chip.responder {
+  color: #28723e !important;
+}
+
+.account-status.active {
+  color: #19713a !important;
+}
+
+.account-status.disabled {
+  color: #7b8796 !important;
+}
+
+.icon-action {
+  background: #ffffff !important;
+  color: #556274 !important;
+  border-color: #dbe3ed !important;
+}
+
+.icon-action:hover:not(:disabled) {
+  background: #f8fafc !important;
+  color: #334155 !important;
+}
+
+.icon-action.success {
+  color: #137a3a !important;
+}
+
+.icon-action.danger {
+  color: #a23a3a !important;
+}
+
+.user-create-button {
+  color: #ffffff !important;
+}
+
+/* ---------------- SELECTION ---------------- */
+
+::selection {
+  background: #2563eb !important;
+  color: #ffffff !important;
+}
+/* =========================================================
+   AUDIT LOG — DARK CARD VISIBILITY FIX
+   ========================================================= */
+
+.audit-card .audit-summary {
+  color: #dcecf5 !important;
+  border-bottom-color: rgba(126, 189, 255, .12) !important;
+}
+
+.audit-card .audit-summary > span {
+  color: #b8cfdd !important;
+}
+
+.audit-card .audit-summary strong {
+  color: #f4fbff !important;
+  font-size: 24px !important;
+  font-weight: 900 !important;
+}
+
+.audit-card .audit-summary small {
+  color: #7893a5 !important;
+}
+
+.audit-table th {
+  color: #87a3b5 !important;
+  background: rgba(255,255,255,.035) !important;
+}
+
+.audit-table td {
+  color: #d5e5ee !important;
+}
+
+.audit-table td strong {
+  color: #effaff !important;
+}
+
+.audit-table code {
+  color: #9eb6c5 !important;
+}
+
+.audit-action {
+  background: rgba(99,102,241,.14) !important;
+  color: #b8c4ff !important;
+  border: 1px solid rgba(129,140,248,.20);
+}
